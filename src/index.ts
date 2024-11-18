@@ -16,3 +16,5 @@ export { default as OpenInNewIcon } from "./OpenInNewIcon.js";
 export { default as ProfileIcon } from "./ProfileIcon.js";
 export { default as RefreshIcon } from "./RefreshIcon.js";
 export { default as SearchIcon } from "./SearchIcon.js";
+export { default as WarningIcon } from "./WarningIcon.js";
+
