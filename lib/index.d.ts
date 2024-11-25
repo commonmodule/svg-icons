@@ -9,6 +9,7 @@ export { default as CopyIcon } from "./CopyIcon.js";
 export { default as DeleteIcon } from "./DeleteIcon.js";
 export { default as EditIcon } from "./EditIcon.js";
 export { default as ErrorIcon } from "./ErrorIcon.js";
+export { default as EthereumIcon } from "./EthereumIcon.js";
 export { default as ImageIcon } from "./ImageIcon.js";
 export { default as InfoIcon } from "./InfoIcon.js";
 export { default as LockIcon } from "./LockIcon.js";
