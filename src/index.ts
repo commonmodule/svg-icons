@@ -10,6 +10,7 @@ export { default as DeleteIcon } from "./DeleteIcon.js";
 export { default as EditIcon } from "./EditIcon.js";
 export { default as ErrorIcon } from "./ErrorIcon.js";
 export { default as EthereumIcon } from "./EthereumIcon.js";
+export { default as GameIcon } from "./GameIcon.js";
 export { default as ImageIcon } from "./ImageIcon.js";
 export { default as InfoIcon } from "./InfoIcon.js";
 export { default as LockIcon } from "./LockIcon.js";
@@ -23,3 +24,4 @@ export { default as SearchIcon } from "./SearchIcon.js";
 export { default as SuccessIcon } from "./SuccessIcon.js";
 export { default as WalletIcon } from "./WalletIcon.js";
 export { default as WarningIcon } from "./WarningIcon.js";
+
