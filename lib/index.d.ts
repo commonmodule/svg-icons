@@ -24,4 +24,5 @@ export { default as SearchIcon } from "./SearchIcon.js";
 export { default as SuccessIcon } from "./SuccessIcon.js";
 export { default as WalletIcon } from "./WalletIcon.js";
 export { default as WarningIcon } from "./WarningIcon.js";
+export { default as XIcon } from "./XIcon.js";
 //# sourceMappingURL=index.d.ts.map
