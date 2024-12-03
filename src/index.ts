@@ -1,5 +1,6 @@
 export { default as AccordionCloseIcon } from "./AccordionCloseIcon.js";
 export { default as AccordionOpenIcon } from "./AccordionOpenIcon.js";
+export { default as AddIcon } from "./AddIcon.js";
 export { default as CalendarIcon } from "./CalendarIcon.js";
 export { default as CheckIcon } from "./CheckIcon.js";
 export { default as ClearIcon } from "./ClearIcon.js";
@@ -28,3 +29,4 @@ export { default as SuccessIcon } from "./SuccessIcon.js";
 export { default as WalletIcon } from "./WalletIcon.js";
 export { default as WarningIcon } from "./WarningIcon.js";
 export { default as XIcon } from "./XIcon.js";
+

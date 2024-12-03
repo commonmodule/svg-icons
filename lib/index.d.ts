@@ -1,5 +1,6 @@
 export { default as AccordionCloseIcon } from "./AccordionCloseIcon.js";
 export { default as AccordionOpenIcon } from "./AccordionOpenIcon.js";
+export { default as AddIcon } from "./AddIcon.js";
 export { default as CalendarIcon } from "./CalendarIcon.js";
 export { default as CheckIcon } from "./CheckIcon.js";
 export { default as ClearIcon } from "./ClearIcon.js";
