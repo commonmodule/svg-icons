@@ -26,9 +26,9 @@ export { default as ProfileIcon } from "./ProfileIcon.js";
 export { default as RefreshIcon } from "./RefreshIcon.js";
 export { default as SearchIcon } from "./SearchIcon.js";
 export { default as SendIcon } from "./SendIcon.js";
+export { default as SettingsIcon } from "./SettingsIcon.js";
 export { default as SuccessIcon } from "./SuccessIcon.js";
 export { default as UploadIcon } from "./UploadIcon.js";
 export { default as WalletIcon } from "./WalletIcon.js";
 export { default as WarningIcon } from "./WarningIcon.js";
 export { default as XIcon } from "./XIcon.js";
-
