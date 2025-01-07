@@ -13,6 +13,8 @@ export { default as EditIcon } from "./icons/EditIcon.js";
 export { default as ErrorIcon } from "./icons/ErrorIcon.js";
 export { default as EthereumIcon } from "./icons/EthereumIcon.js";
 export { default as ExpandIcon } from "./icons/ExpandIcon.js";
+export { default as FolderCollapsedIcon } from "./icons/FolderCollapsedIcon.js";
+export { default as FolderExpandedIcon } from "./icons/FolderExpandedIcon.js";
 export { default as GameIcon } from "./icons/GameIcon.js";
 export { default as ImageIcon } from "./icons/ImageIcon.js";
 export { default as InfoIcon } from "./icons/InfoIcon.js";
@@ -34,3 +36,4 @@ export { default as UploadIcon } from "./icons/UploadIcon.js";
 export { default as WalletIcon } from "./icons/WalletIcon.js";
 export { default as WarningIcon } from "./icons/WarningIcon.js";
 export { default as XIcon } from "./icons/XIcon.js";
+
