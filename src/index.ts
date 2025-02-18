@@ -29,6 +29,8 @@ export { default as LockIcon } from "./icons/LockIcon.js";
 export { default as LogoutIcon } from "./icons/LogoutIcon.js";
 export { default as MapIcon } from "./icons/MapIcon.js";
 export { default as MinusIcon } from "./icons/MinusIcon.js";
+export { default as MoreHorizIcon } from "./icons/MoreHorizIcon.js";
+export { default as MoreVertIcon } from "./icons/MoreVertIcon.js";
 export { default as NextIcon } from "./icons/NextIcon.js";
 export { default as NFTIcon } from "./icons/NFTIcon.js";
 export { default as NumberListIcon } from "./icons/NumberListIcon.js";
@@ -48,4 +50,3 @@ export { default as VideoIcon } from "./icons/VideoIcon.js";
 export { default as WalletIcon } from "./icons/WalletIcon.js";
 export { default as WarningIcon } from "./icons/WarningIcon.js";
 export { default as XIcon } from "./icons/XIcon.js";
-
