@@ -1,7 +1,7 @@
 {
-  "name": "@gaiaprotocol/svg-icons",
-  "author": "Gaia Protocol",
-  "homepage": "https://gaiaprotocol.com",
+  "name": "@common-module/svg-icons",
+  "author": "yj.gaia",
+  "homepage": "https://personas.gaia.cc/yj.gaia",
   "version": "0.0.1",
   "type": "module",
   "types": "./lib/index.d.ts",
@@ -9,6 +9,5 @@
   "dependencies": {
     "@common-module/app-components": "^0.1.6"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
