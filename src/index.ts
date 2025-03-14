@@ -38,6 +38,7 @@ export { default as NFTIcon } from "./icons/NFTIcon.js";
 export { default as NumberListIcon } from "./icons/NumberListIcon.js";
 export { default as OpenInNewIcon } from "./icons/OpenInNewIcon.js";
 export { default as PlusIcon } from "./icons/PlusIcon.js";
+export { default as PrevIcon } from "./icons/PrevIcon.js";
 export { default as ProfileIcon } from "./icons/ProfileIcon.js";
 export { default as QuoteIcon } from "./icons/QuoteIcon.js";
 export { default as RefreshIcon } from "./icons/RefreshIcon.js";
