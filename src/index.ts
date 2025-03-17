@@ -14,6 +14,7 @@ export { default as ComingSoonIcon } from "./icons/ComingSoonIcon.js";
 export { default as CopyIcon } from "./icons/CopyIcon.js";
 export { default as DarkModeIcon } from "./icons/DarkModeIcon.js";
 export { default as DeleteIcon } from "./icons/DeleteIcon.js";
+export { default as DownloadIcon } from "./icons/DownloadIcon.js";
 export { default as EditIcon } from "./icons/EditIcon.js";
 export { default as ErrorIcon } from "./icons/ErrorIcon.js";
 export { default as EthereumIcon } from "./icons/EthereumIcon.js";
