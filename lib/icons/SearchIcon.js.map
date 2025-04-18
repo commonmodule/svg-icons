@@ -1,1 +1,1 @@
-{"version":3,"file":"SearchIcon.js","sourceRoot":"","sources":["../../src/icons/SearchIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,OAAO;IAC7C;QACE,KAAK,CACH,SAAS,EACT,gBAAgB,EAChB,yQAAyQ,CAC1Q,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"SearchIcon.js","sourceRoot":"","sources":["../../src/icons/SearchIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,OAAO;IAC7C;QACE,KAAK,CACH,SAAS,EACT,gBAAgB,EAChB,yQAAyQ,CAC1Q,CAAC;IACJ,CAAC;CACF"}

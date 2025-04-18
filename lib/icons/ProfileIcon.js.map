@@ -1,1 +1,1 @@
-{"version":3,"file":"ProfileIcon.js","sourceRoot":"","sources":["../../src/icons/ProfileIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,OAAO;IAC9C;QACE,KAAK,CACH,UAAU,EACV,gBAAgB,EAChB,qbAAqb,CACtb,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"ProfileIcon.js","sourceRoot":"","sources":["../../src/icons/ProfileIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,OAAO;IAC9C;QACE,KAAK,CACH,UAAU,EACV,gBAAgB,EAChB,qbAAqb,CACtb,CAAC;IACJ,CAAC;CACF"}

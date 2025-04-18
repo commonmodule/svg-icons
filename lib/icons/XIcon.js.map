@@ -1,1 +1,1 @@
-{"version":3,"file":"XIcon.js","sourceRoot":"","sources":["../../src/icons/XIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,KAAM,SAAQ,OAAO;IACxC;QACE,KAAK,CACH,IAAI,EACJ,WAAW,EACX,uPAAuP,CACxP,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"XIcon.js","sourceRoot":"","sources":["../../src/icons/XIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,KAAM,SAAQ,OAAO;IACxC;QACE,KAAK,CACH,IAAI,EACJ,WAAW,EACX,uPAAuP,CACxP,CAAC;IACJ,CAAC;CACF"}

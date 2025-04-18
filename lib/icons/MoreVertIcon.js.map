@@ -1,1 +1,1 @@
-{"version":3,"file":"MoreVertIcon.js","sourceRoot":"","sources":["../../src/icons/MoreVertIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,OAAO;IAC/C;QACE,KAAK,CACH,YAAY,EACZ,gBAAgB,EAChB,4TAA4T,CAC7T,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"MoreVertIcon.js","sourceRoot":"","sources":["../../src/icons/MoreVertIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,OAAO;IAC/C;QACE,KAAK,CACH,YAAY,EACZ,gBAAgB,EAChB,4TAA4T,CAC7T,CAAC;IACJ,CAAC;CACF"}

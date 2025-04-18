@@ -1,1 +1,1 @@
-{"version":3,"file":"CodeBlockIcon.js","sourceRoot":"","sources":["../../src/icons/CodeBlockIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,OAAO;IAChD;QACE,KAAK,CACH,aAAa,EACb,gBAAgB,EAChB,2QAA2Q,CAC5Q,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"CodeBlockIcon.js","sourceRoot":"","sources":["../../src/icons/CodeBlockIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,OAAO;IAChD;QACE,KAAK,CACH,aAAa,EACb,gBAAgB,EAChB,2QAA2Q,CAC5Q,CAAC;IACJ,CAAC;CACF"}

@@ -1,4 +1,4 @@
-import { SvgIcon } from "@common-module/app-components";
+import { SvgIcon } from "@commonmodule/app-components";
 
 export default class InfoIcon extends SvgIcon {
   constructor() {

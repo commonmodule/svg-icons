@@ -1,1 +1,1 @@
-{"version":3,"file":"TableIcon.js","sourceRoot":"","sources":["../../src/icons/TableIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,+BAA+B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,OAAO;IAC5C;QACE,KAAK,CACH,QAAQ,EACR,gBAAgB,EAChB,8PAA8P,CAC/P,CAAC;IACJ,CAAC;CACF"}
+{"version":3,"file":"TableIcon.js","sourceRoot":"","sources":["../../src/icons/TableIcon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,8BAA8B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,OAAO;IAC5C;QACE,KAAK,CACH,QAAQ,EACR,gBAAgB,EAChB,8PAA8P,CAC/P,CAAC;IACJ,CAAC;CACF"}
